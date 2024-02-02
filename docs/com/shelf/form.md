@@ -6,7 +6,7 @@ author: zozoh
 # 表单控件
 
 <script setup lang="ts">
-import {updateInstalledComponentsLangs, TiPlayground} from 'ti'
+import {updateInstalledComponentsLangs, TiPlayground} from "tijs"
 updateInstalledComponentsLangs("zh-cn")
 </script>
 

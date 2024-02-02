@@ -8,7 +8,7 @@ author: zozoh
 啊手动阀手动阀
 
 <script setup lang="ts">
-import {updateInstalledComponentsLangs, TiPlayground} from 'ti'
+import {updateInstalledComponentsLangs, TiPlayground} from "tijs"
 updateInstalledComponentsLangs("zh-cn")
 </script>
 

@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "sass": "^1.70.0",
-    "ti": "portal:D:/workspace/git/github/site-zero/ti-js",
+    "tijs": "portal:D:/workspace/git/github/site-zero/ti-js",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
   },
