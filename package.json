@@ -11,8 +11,8 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
+    "@site0/tijs": "portal:D:/workspace/git/github/site-zero/tijs",
     "sass": "^1.70.0",
-    "tijs": "portal:D:/workspace/git/github/site-zero/ti-js",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
   },

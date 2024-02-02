@@ -9,9 +9,9 @@ import {
   en_us,
   updateInstalledComponentsLangs,
   zh_cn
-} from "tijs";
+} from "@site0/tijs";
 import { provide } from "vue";
-import "tijs/style.css";
+import "@site0/tijs/style.css";
 
 export default defineClientConfig({
   enhance({ app, router, siteData }) {},
