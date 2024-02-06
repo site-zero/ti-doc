@@ -5,7 +5,7 @@ heroText: Ti库
 tagline: 基于 Vue3 的前端组件库
 actions:
   - text: 控件参考
-    link: /com
+    link: /com/
     type: primary
   - text: 项目简介
     link: /about

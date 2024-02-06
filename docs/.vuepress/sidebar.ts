@@ -4,7 +4,7 @@ export default [
     link: "/com",
     collapsible: false,
     children: [
-      { text: "Overview", link: "/com" },
+      { text: "Overview", link: "/com/" },
     ]
   },
   {
