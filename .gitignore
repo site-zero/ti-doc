@@ -136,6 +136,8 @@ dist
 !.yarn/sdks
 !.yarn/versions
 
+# npm-yarn lock file
+package-lock.json
 yarn.lock
 
 # VuePress 默认临时文件目录
