@@ -27,5 +27,10 @@ export default [
     text: "SHELF",
     link: "/com/shelf",
     children: [{ text: "Form", link: "/com/shelf/form" }]
+  },
+  {
+    text: "VIEW",
+    link: "/com/view",
+    children: [{ text: "Table", link: "/com/view/table" }]
   }
 ]
