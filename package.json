@@ -13,7 +13,7 @@
   "dependencies": {
     "@site0/tijs": "portal:D:/workspace/git/github/site-zero/tijs",
     "sass": "^1.70.0",
-    "vue": "^3.4.23",
+    "vue": "^3.4.27",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
